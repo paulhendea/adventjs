@@ -1,6 +1,5 @@
 # 🎁 AdventJS 🎄
 
-
 ## 📖 About
 
 JavaScript solutions for <a href="https://adventjs.dev/" target="_blank">AdventJS</a>. Although it has its roots in the Catholic religion, advent has become a tradition where children would get chocolate for 4 weeks, one a day, from December 1st to December 24th. Here we adapt it to programming challenges.
@@ -37,11 +36,13 @@ JavaScript solutions for <a href="https://adventjs.dev/" target="_blank">AdventJ
 |    20     | Vertical warehose             |       🟢       | [code](./2025/20/index.js) | [see file](./2025/20/instructions.md) |
 |    21     | The cleaning robot            |       🟡       | [code](./2025/21/index.js) | [see file](./2025/21/instructions.md) |
 
-<details>
-<summary>🤫 Secret Achievements</summary>
-- Midu Cat: You have completed 3 lines of code
-- Dark Mode: You completed a challenge between 12:00 AM and 6:00 AM
-</details>
+  <details>
+  <summary>🤫 Secret Achievements</summary>
+    <ul>
+      <li><b>Midu Cat</b>: You have completed 3 lines of code</li>
+      <li><b>Dark Mode</b>: You completed a challenge between 12:00 AM and 6:00 AM</li>
+    </ul>
+  </details>
 
 </details>
 
