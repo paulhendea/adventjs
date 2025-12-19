@@ -1,8 +1,9 @@
-<h1 style="text-align: center;">🎁 AdventJS 🎄</h1>
+# 🎁 AdventJS 🎄
+
 
 ## 📖 About
 
-JavaScript solutions for [AdventJS](https://adventjs.dev/). Although it has its roots in the Catholic religion, advent has become a tradition where children would get chocolate for 4 weeks, one a day, from December 1st to December 24th. Here we adapt it to programming challenges.
+JavaScript solutions for <a href="https://adventjs.dev/" target="_blank">AdventJS</a>. Although it has its roots in the Catholic religion, advent has become a tradition where children would get chocolate for 4 weeks, one a day, from December 1st to December 24th. Here we adapt it to programming challenges.
 
 ## 🎯 Challenges
 
