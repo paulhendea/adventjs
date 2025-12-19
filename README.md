@@ -37,6 +37,12 @@ JavaScript solutions for <a href="https://adventjs.dev/" target="_blank">AdventJ
 |    20     | Vertical warehose             |       🟢       | [code](./2025/20/index.js) | [see file](./2025/20/instructions.md) |
 |    21     | The cleaning robot            |       🟡       | [code](./2025/21/index.js) | [see file](./2025/21/instructions.md) |
 
+<details>
+<summary>🤫 Secret Achievements</summary>
+- Midu Cat: You have completed 3 lines of code
+- Dark Mode: You completed a challenge between 12:00 AM and 6:00 AM
+</details>
+
 </details>
 
 <br>
