@@ -36,6 +36,7 @@ JavaScript solutions for <a href="https://adventjs.dev/" target="_blank">AdventJ
 |    20     | Vertical warehose             |       🟢       | [code](./2025/20/index.js) | [see file](./2025/20/instructions.md) |
 |    21     | The cleaning robot            |       🟡       | [code](./2025/21/index.js) | [see file](./2025/21/instructions.md) |
 |    22     | The sleigh maze               |       🔴       | [code](./2025/22/index.js) | [see file](./2025/22/instructions.md) |
+|    23     | Gift route                    |       🟡       | [code](./2025/23/index.js) | [see file](./2025/23/instructions.md) |
 
   <details>
   <summary>🤫 Secret Achievements</summary>
