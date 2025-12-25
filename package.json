@@ -1,0 +1,23 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "JavaScript solutions for AdventJS.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulhendea/adventjs.git"
+  },
+  "keywords": ["adventjs", "2025"],
+  "author": "Paul Hendea",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/paulhendea/adventjs/issues"
+  },
+  "homepage": "https://github.com/paulhendea/adventjs#readme",
+  "devDependencies": {
+    "vitest": "^4.0.16"
+  }
+}
